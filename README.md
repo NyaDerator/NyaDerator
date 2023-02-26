@@ -6,4 +6,4 @@
 ![npm](https://img.shields.io/badge/-npm-000000?style=for-the-badge&logo=npm&logoColor=912a3d)
 ![python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python&logoColor=003773)
 ![node.js](https://img.shields.io/badge/-node.js-000000?style=for-the-badge&logo=node.js&logoColor=328a00)
-![sql](https://img.shields.io/badge/-sql-000000?style=for-the-badge&logo=sql&logoColor=328a00)
+![sql](https://img.shields.io/badge/-sql-000000?style=for-the-badge&logo=sqlite&logoColor=328a00)
