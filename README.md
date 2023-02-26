@@ -8,4 +8,4 @@
 ![node.js](https://img.shields.io/badge/-node.js-000000?style=for-the-badge&logo=node.js&logoColor=328a00)
 ![sql](https://img.shields.io/badge/-sql-000000?style=for-the-badge&logo=sqlite&logoColor=00505c)
 ![html](https://img.shields.io/badge/-html-000000?style=for-the-badge&logo=html5&logoColor=ba6811)
-![css](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=sCSS&logoColor=00345c)
+![css](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=00345c)
