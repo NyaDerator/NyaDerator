@@ -1,4 +1,4 @@
-[![Header](https://github.com/NyaDerator/NyaDerator/blob/main/images/banner.png)]
+![Header](https://github.com/NyaDerator/NyaDerator/blob/main/images/banner.png)
 
 ### Languages and tools I'm learning:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
