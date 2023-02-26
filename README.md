@@ -7,4 +7,4 @@
 ![python](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python&logoColor=003773)
 ![node.js](https://img.shields.io/badge/-node.js-000000?style=for-the-badge&logo=node.js&logoColor=328a00)
 ![discord.js](https://img.shields.io/badge/-discord.js-000000?style=for-the-badge&logo=discord.js&logoColor=328a00)
-![disnake](https://img.shields.io/badge/-disnake-000000?style=for-the-badge&logo=disnake&logoColor=328a00)
+![disnake](https://disnake.dev/assets/disnake-logo.png)
