@@ -10,3 +10,4 @@
 ![html](https://img.shields.io/badge/-html-000000?style=for-the-badge&logo=html5&logoColor=ba6811)
 ![css](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=00345c)
 ![flask](https://img.shields.io/badge/-flask-000000?style=for-the-badge&logo=flask&logoColor=828282)
+![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=Django&logoColor=828282)
