@@ -3,4 +3,4 @@
 ### Languages and tools I'm learning:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=00cccc)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![npm](https://img.shields.io/badge/-npm-090909?style=for-the-badge&logo=JavaScript&logoColor=912a3d)
