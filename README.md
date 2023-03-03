@@ -13,5 +13,5 @@
 ![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=Django&logoColor=328a00)
 
 # Stats
-![GitHub](https://github-readme-stats.vercel.app/api?username=NyaDerator&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NyaDerator&theme=tokyonight)](https://github.com/NyaDerator/github-readme-stats)
+![GitHub](https://github-readme-stats.vercel.app/api?username=NyaDerator&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NyaDerator&theme=midnight-purple)](https://github.com/NyaDerator/github-readme-stats)
