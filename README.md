@@ -3,7 +3,7 @@
 # About me:
 I am a self-taught person who wants to become a full stack developer
 
-#Projects:
+# Projects:
 Discord bot on node js
 
 Dashboard website for your discord bot
