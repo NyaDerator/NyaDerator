@@ -4,7 +4,7 @@
 I am a self-taught person who wants to become a full stack developer
 
 # Projects:
-Discord bot on node.js
+Discord bot on node.js (discord.js)
 
 dashboard website for my discord bot on flask
 
