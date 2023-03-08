@@ -3,6 +3,13 @@
 # About me:
 I am a self-taught person who wants to become a full stack developer
 
+#Projects:
+Discord bot on node js
+
+Dashboard website for your discord bot
+
+A small website on django
+
 # Languages and tools I'm learning:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=00cccc)
