@@ -1,6 +1,6 @@
 ![Header](https://github.com/NyaDerator/NyaDerator/blob/main/images/banner_2.png)
 
-About me:
+### About me
 I am a self-taught person who wants to become a full stack developer
 
 ### Languages and tools I'm learning:
