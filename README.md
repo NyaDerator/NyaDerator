@@ -3,7 +3,7 @@
 # About me:
 I am a self-taught person who wants to become a full stack developer
 
-### Languages and tools I'm learning:
+# Languages and tools I'm learning:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=00cccc)
 ![npm](https://img.shields.io/badge/-npm-000000?style=for-the-badge&logo=npm&logoColor=912a3d)
