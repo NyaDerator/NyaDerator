@@ -1,14 +1,8 @@
 ![Header](https://github.com/NyaDerator/NyaDerator/blob/main/images/banner_2.png)
 
 # About me:
-I am a self-taught person who wants to become a full stack developer
 
 # Projects:
-Discord bot on node.js (discord.js)
-
-dashboard website for my discord bot on flask
-
-A small website on django
 
 # Languages and tools I'm learning:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
