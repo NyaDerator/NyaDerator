@@ -5,6 +5,7 @@ I am a self-taught person who wants to become a full stack developer
 
 # Projects:
 Discord bot on node.js (discord.js)
+Discord Activity game (next.js)
 
 # Languages and tools I'm learning:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
